@@ -18,42 +18,22 @@
 
 # Testers :
 
-Chichiboo
-
-Jpgmafia
-
-ElDusst
-
-Squiori
-
-Oliver Tzeng
-
-Masne
-
-Sam
-
-MrMiri
-
-Toni
-
-Gamma
-
-Moxort
-
-I Am The Alien From Guam
-
-RestGhost
-
-Cwitt
-
-Izayuh
-
-Lava
-
-Willy. B
-
-Picassoh
-
-Dantepicachu
-
+Chichiboo,
+Jpgmafia,
+ElDusst,
+Squiori,
+Oliver Tzeng,
+Masne,
+Sam,
+MrMiri,
+Toni,
+Gamma,
+Moxort,
+I Am The Alien From Guam,
+RestGhost,
+Izayuh,
+Lava,
+Willy. B,
+Picassoh,
+Dantepicachu,
 J-Rat15
