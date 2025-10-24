@@ -1,5 +1,6 @@
 {
   "showModal": true,
+  "showOnce": false,
   "title": "test",
   "message": "test",
   "image": "https://i.imgur.com/xe4cpVP.png",
