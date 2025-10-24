@@ -1,9 +1,9 @@
 {
   "showModal": true,
   "showOnce": false,
-  "id": "annonce-v2",
+  "id": "annonce-v3",
   "title": "FightPlanner Event",
-  "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "message": "FightPlanner just announce his first event called Fightplanner Event, this keynote will present all of his new features of his next version of FightPlanner, you can see the trailer of FightPlanner Event on this link, come join us to be the first see all of the new next FightPlanner features !",
   "image": "https://i.imgur.com/xe4cpVP.png",
   "type": "success"
 }
