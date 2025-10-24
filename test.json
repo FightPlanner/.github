@@ -1,9 +1,9 @@
 {
   "showModal": true,
   "showOnce": false,
-  "id": "8",
+  "id": "9",
   "title": "FightPlanner Event",
-  "message": "FightPlanner just announce his first event called Fightplanner Event, this keynote will present all of his new features of his next version of FightPlanner, you can see the trailer of FightPlanner Event on this link, come join us to be the first see all of the new next FightPlanner features !",
+  "message": "FightPlanner just announce his first event!",
   "image": "https://i.imgur.com/xe4cpVP.png",
   "bannerUrl": "https://i.imgur.com/xe4cpVP.png",
   "type": "success"
