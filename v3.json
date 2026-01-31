@@ -1,1 +1,9 @@
-
+{
+  "showModal": true,
+  "showOnce": false,
+  "id": "1111",
+  "title": "Something big is coming",
+  "message": "Something big is coming at 7PM (Paris Time/UTC +1), be there on my channel for a Premiere (FIREXDF)",
+  "image": "https://i.imgur.com/2xOK54w.png",
+  "type": "success"
+}
