@@ -14,6 +14,8 @@
 
 ### FloweyGaming : Designer
 
+### Juggarit : Code Contributors
+
 ### Kerosci : Community Manager / Testers
 
 # Testers :
