@@ -19,23 +19,8 @@
 ### Kerosci : Community Manager / Testers
 
 # Testers :
-
-Chichiboo,
-Jpgmafia,
-ElDusst,
-Squiori,
-Oliver Tzeng,
-Masne,
-Sam,
-MrMiri,
-Toni,
-Gamma,
-Moxort,
-I Am The Alien From Guam,
-RestGhost,
-Izayuh,
-Lava,
-Willy. B,
-Picassoh,
-Dantepicachu,
-J-Rat15
+Humplydinkle,
+Ketoro,
+lavaking993,
+ProtocoloRaimon,
+ElDusst
