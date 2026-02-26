@@ -10,7 +10,9 @@
 
 ### FIREXDF : Main Devlopper
 
-### Cwitt : Code Contributor / Sound Maker / Testers
+### Cwitt : Contributor / Sound Maker / Testers
+
+### Jugarrit : Contributors
 
 ### FloweyGaming : Designer
 
