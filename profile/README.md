@@ -8,7 +8,7 @@
 
 # The Team :
 
-### FIREXDF : Main Devlopper
+### FIREXDF : Lead Developper
 
 ### Cwitt : Contributor / Sound Maker / Testers
 
