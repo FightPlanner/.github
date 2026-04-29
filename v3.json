@@ -1,7 +1,7 @@
 {
   "showModal": true,
-  "showOnce": true,
-  "id": "1112",
+  "showOnce": false,
+  "id": "1113",
   "title": "FightPlanner 4 Feedback",
   "message": "We’re working on FightPlanner 4 and want your feedback! Tell us which features you’d like: https://docs.google.com/forms/d/e/1FAIpQLSc1tiGnSfFd9te5cutXvwTmkdOlHSq7XsOwSdxRPdvjLaHVZg/viewform?usp=publish-editor",
   "image": "https://i.imgur.com/KDTV6i1.png",
