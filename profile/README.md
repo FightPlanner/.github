@@ -10,22 +10,37 @@
 
 ### FIREXDF : Lead Developper
 
-### Cwitt : Contributor / Sound Maker / Testers
-
-### Jugarrit : Contributors
-
 ### FloweyGaming : Designer
 
 ### Kerosci : Community Manager / Testers
 
-# Testers :
-Humplydinkle,
-Ketoro,
-lavaking993,
-Luukynha,
-ElDusst,
-Lunamystica,
+### Cwitt : Contributor / Sound Maker / Testers
+
+### Jugarrit : Contributors
+
+
+# Testers:
+GodsonTM,
+NedVedSed,
+LunaMystica,
 chichibooxd,
+skillyahn,
+Chumito,
+Ketoro,
 TNephilim,
+chrisalash,
+SuperSonicAl64,
 Juanjo3222,
-Vastor6624
+squoosh4,
+Vastor6624,
+xJusteen47,
+willamafton751,
+MoonbulaDragoon,
+ChristOurLife,
+DahatCocoa,
+AxolotlMAn19,
+lavaking993,
+ProtocoloRaimon,
+moosesnoozes,
+ghostyturner,
+35C0
