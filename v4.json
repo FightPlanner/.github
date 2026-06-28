@@ -2,8 +2,8 @@
   "showModal": true,
   "showOnce": false,
   "id": "1113",
-  "title": "Give a Feedback!",
-  "message": "You're on FightPlanner 4 Public Beta Test! Welcome! Feedback is welcome to here, if you have any bugs or any general feedback to say, go to settings, and give feedback section! Thanks for using this version!",
-  "image": "https://i.imgur.com/DQNv3np.gif",
+  "title": "Update your version of FightPlanner Public Beta Test!",
+  "message": "You're using an old version of FightPlanner 4 Public Beta Test. The auto-updater is broken in this version, so we recommend installing the new version manually. Please go to this link and download the latest version : https://github.com/FIREXDF/FightPlannerBetaSourceCode/releases",
+  "image": "",
   "type": "success"
 }
