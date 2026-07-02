@@ -4,6 +4,6 @@
   "id": "1113",
   "title": "Update your version of FightPlanner Public Beta Test!",
   "message": "You're using an old version of FightPlanner 4 Public Beta Test. The auto-updater is broken in this version, so we recommend installing the new version manually. Please go to this link and download the latest version : https://github.com/FIREXDF/FightPlannerBetaSourceCode/releases",
-  "image": "",
+  "image": "https://i.imgur.com/4yGaceQ.png",
   "type": "success"
 }
