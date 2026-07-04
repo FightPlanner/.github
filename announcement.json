@@ -1,1 +1,23 @@
-
+{
+  "announcements": [
+    {
+      "showModal": true,
+      "showOnce": true,
+      "id": "old-beta-warning",
+      "versionBelow": "4.0.0-beta3",
+      "title": "Update available",
+      "message": "You are using an old beta. Please update.",
+      "image": "https://i.imgur.com/gY3TbZM.png",
+      "type": "warning"
+    },
+    {
+      "showModal": true,
+      "showOnce": true,
+      "id": "1114",
+      "title": "FightPlanner 4 Public Beta Test",
+      "message": "FightPlanner 4 Public Beta Test is available! Link: https://github.com/FIREXDF/FightPlannerBetaSourceCode/releases",
+      "image": "https://i.imgur.com/gY3TbZM.png",
+      "type": "success"
+    }
+  ]
+}
