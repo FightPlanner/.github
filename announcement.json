@@ -4,7 +4,7 @@
       "showModal": true,
       "showOnce": true,
       "id": "old-beta-warning",
-      "versionBelow": "4.0.0-beta3",
+      "versionBelow": "4.0.0-beta6",
       "title": "Update available",
       "message": "You are using an old beta. Please update.",
       "image": "https://i.imgur.com/gY3TbZM.png",
@@ -14,6 +14,7 @@
       "showModal": true,
       "showOnce": true,
       "id": "1114",
+      "version": "4.0.0-beta.7"
       "title": "FightPlanner 4 Public Beta Test",
       "message": "FightPlanner 4 Public Beta Test is available! Link: https://github.com/FIREXDF/FightPlannerBetaSourceCode/releases",
       "image": "https://i.imgur.com/gY3TbZM.png",
