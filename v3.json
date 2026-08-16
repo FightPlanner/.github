@@ -1,9 +1,9 @@
 {
   "showModal": true,
-  "showOnce": true,
-  "id": "1114",
-  "title": "FightPlanner 4 Public Beta Test",
-  "message": "FightPlanner 4 Public Beta Test is available! You can experience a brand new version of FightPlanner, with brand new features and a whole new design! Try it out and give some feedback! The link is there : https://github.com/FIREXDF/FightPlannerBetaSourceCode/releases",
-  "image": "https://i.imgur.com/gY3TbZM.png",
+  "showOnce": false,
+  "id": "2000",
+  "title": "FightPlanner Event",
+  "message": "Our first livestream to showcase all the new features of FightPlanner will officially be at 12 September on YouTube! Stay tuned!",
+  "image": "https://i.imgur.com/M733Ja4.png",
   "type": "success"
 }
